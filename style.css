@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Playpen+Sans:wght@100..800&display=swap');
+
 :root {
     --primary-color: rgb(98, 0, 255);
     --accent-color:rgb(55, 6, 134);
@@ -6,6 +8,7 @@
 
 #body {
     background: linear-gradient(90deg, rgb(178, 165, 252) 1.8%, rgb(227, 181, 255) 100.5%);
+    font-family: "Emilys Candy";
 }
 
 .accent-color {
